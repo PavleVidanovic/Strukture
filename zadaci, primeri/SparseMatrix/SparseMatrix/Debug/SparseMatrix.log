@@ -1,0 +1,6 @@
+﻿  SparseMatrix.cpp
+e:\strukture\strukture kaca\zadaci, primeri\sparsematrix\sparsematrix\sparsematrix.cpp(142): warning C4101: 'another': unreferenced local variable
+  Node.cpp
+  main.cpp
+  Generating Code...
+  SparseMatrix.vcxproj -> E:\Strukture\strukture kaca\zadaci, primeri\SparseMatrix\Debug\SparseMatrix.exe
